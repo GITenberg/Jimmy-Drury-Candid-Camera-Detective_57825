@@ -1,11 +1,16 @@
 _repo: Jimmy-Drury-Candid-Camera-Detective_57825
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57825-h/images/cover.jpg
 creator:
   author:
     agent_name: O'Hara, David
     gutenberg_agent_id: '49623'
     url: http://www.gutenberg.org/2009/agents/49623
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57825#Jimmy-Drury-Candid-Camera-Detective
 gutenberg_issued: '2018-09-01'
 gutenberg_type: Text
 identifiers:
